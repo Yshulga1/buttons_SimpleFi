@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Hi, SimpleFi team!
+Thank you for your challenge. Please, find a components folder with reusable button.
+
 In the project directory, you can run:
 
 ### `yarn start`
