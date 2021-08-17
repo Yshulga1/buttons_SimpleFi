@@ -1,11 +1,8 @@
-# Getting Started with Create React App
+# Hi, SimpleFi team!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Thank you for your challenge. Please, find a components folder with reusable button.
 
 ## Available Scripts
-
-Hi, SimpleFi team!
-Thank you for your challenge. Please, find a components folder with reusable button.
 
 In the project directory, you can run:
 
