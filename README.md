@@ -2,6 +2,9 @@
 
 Thank you for your challenge. Please, find a components folder with reusable button.
 
+Inside the /compoents/Button folder I've created Button which tackes required props and passes them to the Button component.
+As an alternative solution, I've experemented with buttons and created seperate button components based on their type with styled-components extention and <ThemeProvider> wrapper component.
+
 ## Available Scripts
 
 In the project directory, you can run:
